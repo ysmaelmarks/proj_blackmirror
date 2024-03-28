@@ -13,8 +13,6 @@ while True:
     elif(pergunta == "QUAIS SÃO OS TEMAS PRINCIPAIS EXPLORADOS NESTE EPISÓDIO DE BLACK MIRROR?"):
         print(f'Os temas abordados são: LGPD, distopia, inteligencia artificial e realidade simulada')
     elif(pergunta == "O EPISÓDIO TERMINA DE MANEIRA TÍPICA PARA A SÉRIE BLACK MIRROR? EXPLIQUE."):
-        print(f'Não, geralmente os finais de blackmirror são dramáticos e tendem a ser distópicos. 
-              O episódio termina de forma agradável quando se entende que a Joan real está
-              feliz por ter saído da realidade virtual da Streamberry')
+        print(f'Não, geralmente os finais de blackmirror são dramáticos e tendem a ser distópicos. O episódio termina de forma agradável quando se entende que a Joan real está feliz por ter saído da realidade virtual da Streamberry')
     else:
         break
